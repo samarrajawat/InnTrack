@@ -53,7 +53,7 @@ To run this project locally, follow these steps:
 ## Folder Structure
 
 ```
-real-time-tracker/
+InnTrack/
 ├── client/         # Frontend React app
 │   ├── public/
 │   └── src/
